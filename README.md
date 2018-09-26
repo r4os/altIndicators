@@ -12,5 +12,8 @@ capture and reflect research quality?
 
 What are indicators of quality science?
 
-### Crowdsourcing
+## Crowdsourcing
+
+The European Commission has requested the community to develop new metrics and awarded
+recently a research grant...
 
