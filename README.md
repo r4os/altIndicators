@@ -15,5 +15,20 @@ What are indicators of quality science?
 ## Crowdsourcing
 
 The European Commission has requested the community to develop new metrics and awarded
-recently a research grant...
+recently a research grant to develop an Open Science monitor.
+
+But it is better of the scholarly community itself comes up with a detailed overview
+of metrics to select from, an long list of research-backed indicators of which we know
+what they capture and how they can be interpreted. And that may be different from one
+research field to another.
+
+Let's have a go at this!
+
+## Outcome
+
+The anticipated outcome will be this list of indicators that funders, research institutes,
+tenure committees, etc, can use to communicate how they assess research and researchers.
+
+That way, let's remove arbitrary decisions and replace this with transparent processes,
+so that we can all focus on what we really want to do: do research itself.
 
