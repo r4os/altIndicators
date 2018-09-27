@@ -1,4 +1,4 @@
-# altAssessments
+# altIndicators
 Repository to crowd source how science should be assessed.
 
 ## Problem to be solved
